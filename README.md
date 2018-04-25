@@ -32,6 +32,19 @@ Got VALID track at dist: 2.4
 
 Rejoice! Your radar is alive!
 
+## How do I wire up this radar?
+Heres the pinout to get you started:
+![Radar pinout](/images/connector.jpg "Radar connector")
+
+|Pin| Usage|
+|---|------|
+|3|Car can High|
+|2|Car can Low|
+|5|Radar can High|
+|6|Radar can Low|
+|8|12V VCC|
+|1|GND|
+
 ## Some CAN help please?
 I have used these two CAN adaptors successfully:
 
