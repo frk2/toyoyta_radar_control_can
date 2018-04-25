@@ -14,7 +14,7 @@ git submodule update --init
 ```
 to fetch the forked opendbc repo thats part of this repository.
 
-Make sure that can1 is connected to the RADAR can bus (Pin 5/6 on the radar unit) and can0 to the CAR CAN bus. (pin 3/2)
+__Make sure that can1 is connected to the RADAR can bus (Pin 5/6 on the radar unit) and can0 to the CAR CAN bus. (pin 3/2)__
 
 Just run ./spoof_dsu.py and you should see output on your terminal like:
 
