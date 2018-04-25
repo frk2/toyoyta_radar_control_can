@@ -58,5 +58,6 @@ You can also use comma.ai's Panda if you can hunt down the can pins on the OBD c
 
 And thats it!
 
-
+## My radar still does not speak!
+Ive been told that the 2018 Toyotas might have a different unit (made by Continental instead of Denso) so consider this code fully tested ONLY on the 2017 Denso radar units. 
 
