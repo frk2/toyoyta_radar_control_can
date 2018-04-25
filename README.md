@@ -1,5 +1,5 @@
 # Toyota Radar spoofer and can controller
-Reverse engineered can bus messages to enable the automotive Radar found on 2016+ Toyotas with TSS (corolla, Rav4, Highlander, camry)
+Reverse engineered can bus messages to enable the automotive Radar found on 2016+ Toyotas with TSS (corolla, Rav4, Highlander, camry). If you got your radar hooked up by are disappointed by invalid tracks, this will help you turn the radar on so you see something!
 
 ## Requirements
 You'll need:
