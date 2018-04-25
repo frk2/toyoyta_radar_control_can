@@ -10,7 +10,7 @@ You'll need:
 ## Quickstart
 you need to run
 ```
-git submodule update
+git submodule update --init
 ```
 to fetch the forked opendbc repo thats part of this repository.
 
