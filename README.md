@@ -65,4 +65,4 @@ Ive been told that the 2018 Toyotas might have a different unit (made by Contine
 I actually didn't do the hard work here - the fine folks at comma.ai did! I basically connected this radar to a NEO running openpilot then fooled it into thinking that it needs to turn on using [@wocsor's Radar Spoofer](https://github.com/wocsor/Toyota-Radar-Spoofer). I then sniffed out the exact messages openpilot was sending and correlated then to what I THOUGHT it was sending using openpilot code. Keep on doing this for 12 hours and you are bound to stumble upon the right sequence :D
 
 ## Why did you do this?
-Im building a opensource highway autopilot system for my Kia Soul EV using the Polysync OSCC. Its called [OpenCaret](https://frk2.github.io/opencaret/)
+Im building a opensource highway autopilot system for my Kia Soul EV using the Polysync OSCC. Its called [OpenCaret](https://frk2.github.io/opencaret/). I need a radar to do ACC
